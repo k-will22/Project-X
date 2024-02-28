@@ -1,8 +1,8 @@
-import './Header.css'
+import './App.css'
 
 function Header() {
     return (
-        <h1 className="color">Welcome to Project-X</h1>
+        <h1 className="color">PROJECT-X</h1>
     );
 }
 
