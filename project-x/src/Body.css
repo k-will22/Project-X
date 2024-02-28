@@ -1,0 +1,10 @@
+.middle {
+        min-height: 60vh;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        font-size: 30px;
+        color: rgb(213, 209, 209);
+        text-shadow: 1px 1px 2px white;
+}
