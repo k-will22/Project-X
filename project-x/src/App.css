@@ -45,7 +45,7 @@ body {
   padding: .5em;
   text-shadow: 1px 1px 2px black;
   border-radius: 25px;
-  background-color: rgb(213, 209, 209);
+  background-color: rgb(30, 29, 29);
   font-family: "American Typewriter";
   box-shadow: 1px 1px rgb(175, 97, 97);
 }
@@ -89,4 +89,12 @@ body {
     background-color: rgb(30, 29, 29);
     color: rgb(213, 209, 209);
     text-shadow: 1px 1px 2px white;
+}
+
+.whiteText {
+  color: white;
+}
+
+.redText {
+  color: red;
 }

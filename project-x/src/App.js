@@ -79,6 +79,7 @@ function App() {
         { showTopSecret ? "none" :
           <div>
           <TopSecret/>
+          <br></br><br></br>
           <button className="button" onClick={() => displayTopSecret()}>Go Back</button>
         </div>} 
     </div>
